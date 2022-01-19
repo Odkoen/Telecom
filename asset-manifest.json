@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Telecom/static/css/main.1f8d25a2.chunk.css",
+    "main.js": "/Telecom/static/js/main.5adc9617.chunk.js",
+    "main.js.map": "/Telecom/static/js/main.5adc9617.chunk.js.map",
+    "runtime-main.js": "/Telecom/static/js/runtime-main.c3ee7ca6.js",
+    "runtime-main.js.map": "/Telecom/static/js/runtime-main.c3ee7ca6.js.map",
+    "static/js/2.243e7ad5.chunk.js": "/Telecom/static/js/2.243e7ad5.chunk.js",
+    "static/js/2.243e7ad5.chunk.js.map": "/Telecom/static/js/2.243e7ad5.chunk.js.map",
+    "index.html": "/Telecom/index.html",
+    "static/css/main.1f8d25a2.chunk.css.map": "/Telecom/static/css/main.1f8d25a2.chunk.css.map",
+    "static/js/2.243e7ad5.chunk.js.LICENSE.txt": "/Telecom/static/js/2.243e7ad5.chunk.js.LICENSE.txt",
+    "static/media/asd.46f35e0b.jpg": "/Telecom/static/media/asd.46f35e0b.jpg",
+    "static/media/zxc.eaa38dbe.jpg": "/Telecom/static/media/zxc.eaa38dbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3ee7ca6.js",
+    "static/js/2.243e7ad5.chunk.js",
+    "static/css/main.1f8d25a2.chunk.css",
+    "static/js/main.5adc9617.chunk.js"
+  ]
+}
